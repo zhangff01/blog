@@ -4,12 +4,12 @@
 
 # Site
 title: 拾光
-subtitle: hello word
+subtitle: Hello World
 description: 生命的霞光 融化了征途的风霜
 keywords: Java,Blog,Tech
 author: zhangff01
-language: zh-Hans
-theme: next
+language: zh-CN
+theme: icarus
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
